@@ -1,1 +1,1 @@
-# telegram-mining-appl
+# telegram-mining-app
